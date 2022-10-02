@@ -5,7 +5,7 @@ This is a space for me to host my coding notes. It was created to save me time f
 
 **Table of contents:**
 - [Docker](https://github.com/kmaphosa/technical-notes/tree/main/Docker)
-- [Javascript](https://github.com/kmaphosa/technical-notes/tree/main/JavaScript)
+- [Javascript](https://github.com/kmaphosa/technical-notes/tree/main/Javascript)
     - [jQuery](https://github.com/kmaphosa/technical-notes/tree/main/JavaScript/jQuery)
 - [PHP](https://github.com/kmaphosa/technical-notes/tree/main/PHP)
     - [SQL](https://github.com/kmaphosa/technical-notes/tree/main/PHP/SQL)
