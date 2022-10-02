@@ -15,3 +15,4 @@ This is a space for me to host my coding notes. It was created to save me time f
         - [Nginx](https://github.com/kmaphosa/technical-notes/tree/main/Ubuntu/webservers/nginx)
     - [Server Setup](https://github.com/kmaphosa/technical-notes/tree/main/Ubuntu/server-setup)
 - [Python](https://github.com/kmaphosa/technical-notes/tree/main/Python)
+- [Terraform](https://github.com/kmaphosa/technical-notes/tree/main/Terraform)
