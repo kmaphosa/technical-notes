@@ -1,3 +1,6 @@
+# Docker
+
+```shell
 # check available containers (& see container ids)
 docker ps -a
 
@@ -18,3 +21,5 @@ sudo docker commit [imageID] image-name
 
 # reload nginx from within a running container
 docker container exec [imageID] nginx -s reload
+
+```
